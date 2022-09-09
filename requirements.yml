@@ -1,0 +1,4 @@
+name: poeprofit
+dependencies:
+  - python
+  - requests
